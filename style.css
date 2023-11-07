@@ -23,3 +23,9 @@ display: grid;
 #N{
     text-size-adjust: 40%;
 }
+
+img{
+    width: auto;
+    height: 180px;
+    right: 25%;
+}
