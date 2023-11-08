@@ -22,10 +22,20 @@ display: grid;
 }
 #N{
     text-size-adjust: 40%;
+    border: 5px solid white
+    ; border-radius:10px ;
 }
 
 img{
     width: auto;
     height: 180px;
     right: 25%;
+    border-radius: 10px;
 }
+
+#K{
+
+
+    margin-right: 65%;
+}
+footer{text-align: center;}
