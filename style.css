@@ -15,15 +15,16 @@ display: grid;
 
 }
 #H{
-    border: 5px solid white;
+    border: 5px solid beige;
     text-size-adjust: 40%;
     margin-right: 80%;
     border-radius: 10px;
 }
 #N{
     text-size-adjust: 40%;
-    border: 5px solid white
+    border: 5px solid beige
     ; border-radius:10px ;
+    grid-row: 2;
 }
 
 img{
@@ -39,3 +40,4 @@ img{
     margin-right: 65%;
 }
 footer{text-align: center;}
+#Q{}
